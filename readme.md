@@ -1,6 +1,7 @@
 # Environnement PHP 8.3 / Postgresql / Mailcatcher in Docker
 
-
+### Décommenter le fichier .env :
+C'est dans ce fichier que l'on peut personnaliser les variables, choisir la version de postgres, etc.
 
 ### Si les images ne sont pas encore créés : 
 ```bash
