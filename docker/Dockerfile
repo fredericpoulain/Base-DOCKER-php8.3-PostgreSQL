@@ -1,4 +1,4 @@
-#indique que l’image de base à utiliser est php:8.2-apache
+#indique que l’image de base à utiliser est php:8.3-apache
 FROM php:8.3-apache
 
 #met à jour la liste des packages disponibles et met à niveau les packages déjà installés dans l’image
