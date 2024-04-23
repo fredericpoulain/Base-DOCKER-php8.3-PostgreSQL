@@ -21,7 +21,7 @@ docker-compose up -d
 ## Entrer dans le container :
 #### Attention ! Modifier "customNameProject" par le nom du container modifié précédemment
 ```bash
-docker exec -ti customNameProject bash
+docker exec -ti Project_name bash
 ```
 ### Installer le projet Symfony :
 
